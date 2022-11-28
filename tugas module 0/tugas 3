@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main(){
+    printf(“Selamat Pagi,kevin maleakhi \n” );
+    printf(“Selamat Siang,kevin maleakhi \n” );
+    printf(“Selamat Malam,kevin maleakhi \n” );
+}
